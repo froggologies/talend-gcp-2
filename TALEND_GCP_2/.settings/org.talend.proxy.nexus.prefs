@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+nexus.proxy.enable=true
+nexus.proxy.repository.id=testing
+nexus.proxy.type=NEXUS_3
+nexus.proxy.url=http\://34.123.241.187\:8081/
